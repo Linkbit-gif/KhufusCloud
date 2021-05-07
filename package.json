@@ -1,0 +1,128 @@
+{
+  "_from": "spring-framework",
+  "_id": "spring-framework@4.3.4",
+  "_inBundle": false,
+  "_integrity": "sha512-y1xBsi422PWLDSpZZbuwSnauJNpWQL26lbyz3U8Tt/nuym72mTY4qQalHim5ELneoCcHekRR9/JP4tVpHtKKAA==",
+  "_location": "/spring-framework",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "spring-framework",
+    "name": "spring-framework",
+    "escapedName": "spring-framework",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/spring-framework/-/spring-framework-4.3.4.tgz",
+  "_shasum": "2cf85ad8cd330df981bf843a5ae1a49ad2b130c8",
+  "_spec": "spring-framework",
+  "_where": "D:\\xray-master\\spring-framework",
+  "author": {
+    "name": "Arsenii_Boretskii",
+    "email": "arseniiboretskii@gmail.com"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/ArseniyBorezkiy/js-beans/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Spring.io core port for javascript",
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "@types/fetch-mock": "^7.2.3",
+    "@types/jest": "24.0.11",
+    "babel-loader": "^8.0.6",
+    "fetch-mock": "^7.3.1",
+    "jest": "23.6.0",
+    "jest-fetch-mock": "^2.1.2",
+    "reflect-metadata": "0.1.12",
+    "rollup": "^1.0.0",
+    "rollup-plugin-babel": "^4.3.2",
+    "rollup-plugin-commonjs": "^9.3.4",
+    "rollup-plugin-copy": "^1.1.0",
+    "rollup-plugin-node-globals": "^1.4.0",
+    "rollup-plugin-node-resolve": "^4.0.0",
+    "rollup-plugin-postcss": "^2.0.3",
+    "rollup-plugin-typescript": "^1.0.0",
+    "rollup-plugin-typescript2": "^0.20.1",
+    "ts-jest": "23.10.5",
+    "tslib": "^1.9.3",
+    "typedoc": "^0.14.2",
+    "typescript": "3.2.2"
+  },
+  "directories": {
+    "lib": "dist",
+    "test": "src/__tests__"
+  },
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://github.com/ArseniyBorezkiy/js-beans#readme",
+  "jest": {
+    "moduleFileExtensions": [
+      "ts",
+      "js"
+    ],
+    "transform": {
+      "\\.(ts)$": "ts-jest"
+    },
+    "testRegex": "/__tests__/.*\\.(ts)$",
+    "globals": {
+      "ts-jest": {
+        "tsConfig": "tsconfig.test.json",
+        "diagnostics": false,
+        "compilerOptions": {
+          "importHelpers": true
+        }
+      }
+    },
+    "testPathIgnorePatterns": [
+      "node_modules",
+      "dist"
+    ],
+    "automock": false,
+    "setupFiles": [
+      "./setupJest.js"
+    ]
+  },
+  "keywords": [
+    "spring",
+    "framework",
+    "IoC"
+  ],
+  "license": "ISC",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "name": "spring-framework",
+  "peerDependencies": {
+    "reflect-metadata": "0.1.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArseniyBorezkiy/js-beans.git"
+  },
+  "resolutions": {
+    "babel-core": "7.0.0-bridge.0"
+  },
+  "scripts": {
+    "assemble": "rimraf dist && tsc && babel dist -d dist",
+    "build": "rollup -c rollup.lib.config.js",
+    "doc": "typedoc --out ./docs --exclude **/*tests*/* ./src",
+    "test": "jest --no-cache",
+    "test:clear": "jest --clearCache"
+  },
+  "types": "dist/index.d.ts",
+  "version": "4.3.4"
+}
