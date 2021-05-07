@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Excalibur:war">
+    <output-path>$PROJECT_DIR$/Excalibur/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Excalibur</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Excalibur.war">
+      <element id="artifact" artifact-name="Excalibur:war exploded" />
+    </root>
+  </artifact>
+</component>
