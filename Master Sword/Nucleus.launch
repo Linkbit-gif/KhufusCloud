@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/excalibur/src/main/java/Nucleus.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <mapAttribute key="org.eclipse.debug.core.environmentVariables">
+        <mapEntry key="ALLUSERSPROFILE" value="C:\ProgramData"/>
+        <mapEntry key="APPDATA" value="C:\Users\rdonn\AppData\Roaming"/>
+        <mapEntry key="CHROME_CRASHPAD_PIPE_NAME" value="\\.\pipe\crashpad_10192_CLCUXOKUSLARFHDL"/>
+        <mapEntry key="CHROME_RESTART" value="Google Chrome|Whoa! Google Chrome has crashed. Relaunch now?|LEFT_TO_RIGHT"/>
+        <mapEntry key="COMPUTERNAME" value="LAPTOP-3N0Q64F5"/>
+        <mapEntry key="ChocolateyInstall" value="C:\ProgramData\chocolatey"/>
+        <mapEntry key="ChocolateyLastPathUpdate" value="132465038201454631"/>
+        <mapEntry key="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+        <mapEntry key="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+        <mapEntry key="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+        <mapEntry key="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+        <mapEntry key="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+        <mapEntry key="EXCALIBUR_OPTS" value="C:\Users\rdonn\Documents\Fax\excalibur-0.1"/>
+        <mapEntry key="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+        <mapEntry key="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+        <mapEntry key="GPU_MAX_ALLOC_PERCENT" value="100"/>
+        <mapEntry key="GPU_USE_SYNC_OBJECTS" value="1"/>
+        <mapEntry key="HOMEDRIVE" value="C:"/>
+        <mapEntry key="HOMEPATH" value="\Users\rdonn"/>
+        <mapEntry key="JAVA_HOME" value="C:\Program Files\Java"/>
+        <mapEntry key="LOCALAPPDATA" value="C:\Users\rdonn\AppData\Local"/>
+        <mapEntry key="LOGONSERVER" value="\\LAPTOP-3N0Q64F5"/>
+        <mapEntry key="NUMBER_OF_PROCESSORS" value="8"/>
+        <mapEntry key="OS" value="Windows_NT"/>
+        <mapEntry key="OneDrive" value="C:\Users\rdonn\OneDrive"/>
+        <mapEntry key="OneDriveConsumer" value="C:\Users\rdonn\OneDrive"/>
+        <mapEntry key="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+        <mapEntry key="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+        <mapEntry key="PROCESSOR_IDENTIFIER" value="AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD"/>
+        <mapEntry key="PROCESSOR_LEVEL" value="23"/>
+        <mapEntry key="PROCESSOR_REVISION" value="1801"/>
+        <mapEntry key="PROMPT" value="$P$G"/>
+        <mapEntry key="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules"/>
+        <mapEntry key="PUBLIC" value="C:\Users\Public"/>
+        <mapEntry key="Path" value="C:/Program Files/Java/jdk-16/bin/server;C:/Program Files/Java/jdk-16/bin;C:/Users/rdonn/AppData/Local/Temp/eoiD168.tmp//plugins/org.eclipse.justj.openjdk.hotspot.jre.minimal.stripped.win32.x86_64_15.0.2.v20210201-0955/jre/bin/server;C:/Users/rdonn/AppData/Local/Temp/eoiD168.tmp//plugins/org.eclipse.justj.openjdk.hotspot.jre.minimal.stripped.win32.x86_64_15.0.2.v20210201-0955/jre/bin;C:\Program Files\Google\Chrome\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\bin;C:\Users\rdonn\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\rdonn\AppData\Local\Programs\Python\Python39\;C:\Users\rdonn\AppData\Local\Microsoft\WindowsApps;C:\Users\rdonn\AppData\Roaming\npm;C:\Users\rdonn\AppData\Local\GitHubDesktop\bin;C:\Users\rdonn\AppData\Local\atom\bin;C:\Users\rdonn\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\rdonn\Downloads;;C:\Users\rdonn\Downloads;"/>
+        <mapEntry key="ProgramData" value="C:\ProgramData"/>
+        <mapEntry key="ProgramFiles" value="C:\Program Files"/>
+        <mapEntry key="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+        <mapEntry key="ProgramW6432" value="C:\Program Files"/>
+        <mapEntry key="SESSIONNAME" value="Console"/>
+        <mapEntry key="SystemDrive" value="C:"/>
+        <mapEntry key="SystemRoot" value="C:\Windows"/>
+        <mapEntry key="TEMP" value="C:\Users\rdonn\AppData\Local\Temp"/>
+        <mapEntry key="TMP" value="C:\Users\rdonn\AppData\Local\Temp"/>
+        <mapEntry key="USERDOMAIN" value="LAPTOP-3N0Q64F5"/>
+        <mapEntry key="USERDOMAIN_ROAMINGPROFILE" value="LAPTOP-3N0Q64F5"/>
+        <mapEntry key="USERNAME" value="rdonn"/>
+        <mapEntry key="USERPROFILE" value="C:\Users\rdonn"/>
+        <mapEntry key="VBOX_HWVIRTEX_IGNORE_SVM_IN_USE" value="1"/>
+        <mapEntry key="windir" value="C:\Windows"/>
+    </mapAttribute>
+    <stringAttribute key="org.eclipse.debug.core.source_locator_id" value="org.eclipse.jdt.launching.sourceLocator.JavaSourceLookupDirector"/>
+    <stringAttribute key="org.eclipse.debug.core.source_locator_memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;sourceLookupDirector&gt;&#13;&#10;    &lt;sourceContainers duplicates=&quot;false&quot;&gt;&#13;&#10;        &lt;container memento=&quot;&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot; standalone=&amp;quot;no&amp;quot;?&amp;gt;&amp;#13;&amp;#10;&amp;lt;javaProject name=&amp;quot;excalibur&amp;quot;/&amp;gt;&amp;#13;&amp;#10;&quot; typeId=&quot;org.eclipse.jdt.launching.sourceContainer.javaProject&quot;/&gt;&#13;&#10;        &lt;container memento=&quot;&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot; standalone=&amp;quot;no&amp;quot;?&amp;gt;&amp;#13;&amp;#10;&amp;lt;default/&amp;gt;&amp;#13;&amp;#10;&quot; typeId=&quot;org.eclipse.debug.core.containerType.default&quot;/&gt;&#13;&#10;    &lt;/sourceContainers&gt;&#13;&#10;&lt;/sourceLookupDirector&gt;&#13;&#10;"/>
+    <stringAttribute key="org.eclipse.debug.ui.ATTR_CONSOLE_ENCODING" value="ISO-8859-1"/>
+    <booleanAttribute key="org.eclipse.jdt.debug.ui.CONSIDER_INHERITED_MAIN" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.debug.ui.INCLUDE_EXTERNAL_JARS" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_ATTR_USE_ARGFILE" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_SHOW_CODEDETAILS_IN_EXCEPTION_MESSAGES" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_CLASSPATH_ONLY_JAR" value="false"/>
+    <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
+    <stringAttribute key="org.eclipse.jdt.launching.JRE_CONTAINER" value="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-16"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Nucleus"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="excalibur"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="${project_name}"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="excalibur"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.STOP_IN_MAIN" value="true"/>
+</launchConfiguration>
