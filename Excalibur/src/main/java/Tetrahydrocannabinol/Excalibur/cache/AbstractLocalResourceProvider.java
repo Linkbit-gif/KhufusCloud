@@ -40,7 +40,7 @@ import static com.google.common.base.Preconditions.checkNotNull;
  * <pre>
  * {@code
  *     RestFacade.get( Account.class )
- *                     .identifiedBy( "my.account@example.com" )
+ *                     .identifiedBy( "khufuscloud@gmail.com" )
  *                     .finish();
  * }
  * </pre>
