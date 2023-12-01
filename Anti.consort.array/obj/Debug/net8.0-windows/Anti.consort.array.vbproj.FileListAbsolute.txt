@@ -1,0 +1,16 @@
+C:\Users\rdonn\source\repos\Anti.consort.array\bin\Debug\net8.0-windows\Anti.consort.array.deps.json
+C:\Users\rdonn\source\repos\Anti.consort.array\bin\Debug\net8.0-windows\Anti.consort.array.dll
+C:\Users\rdonn\source\repos\Anti.consort.array\bin\Debug\net8.0-windows\Anti.consort.array.pdb
+C:\Users\rdonn\source\repos\Anti.consort.array\obj\Debug\net8.0-windows\UserControl1.g.vb
+C:\Users\rdonn\source\repos\Anti.consort.array\obj\Debug\net8.0-windows\Anti.consort.array_MarkupCompile.cache
+C:\Users\rdonn\source\repos\Anti.consort.array\obj\Debug\net8.0-windows\Anti.consort.array_MarkupCompile.lref
+C:\Users\rdonn\source\repos\Anti.consort.array\obj\Debug\net8.0-windows\UserControl1.baml
+C:\Users\rdonn\source\repos\Anti.consort.array\obj\Debug\net8.0-windows\Anti.consort.array.g.resources
+C:\Users\rdonn\source\repos\Anti.consort.array\obj\Debug\net8.0-windows\Anti.consort.array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdonn\source\repos\Anti.consort.array\obj\Debug\net8.0-windows\Anti.consort.array.AssemblyInfoInputs.cache
+C:\Users\rdonn\source\repos\Anti.consort.array\obj\Debug\net8.0-windows\Anti.consort.array.AssemblyInfo.vb
+C:\Users\rdonn\source\repos\Anti.consort.array\obj\Debug\net8.0-windows\Anti.consort.array.vbproj.CoreCompileInputs.cache
+C:\Users\rdonn\source\repos\Anti.consort.array\obj\Debug\net8.0-windows\Anti.consort.array.dll
+C:\Users\rdonn\source\repos\Anti.consort.array\obj\Debug\net8.0-windows\refint\Anti.consort.array.dll
+C:\Users\rdonn\source\repos\Anti.consort.array\obj\Debug\net8.0-windows\Anti.consort.array.pdb
+C:\Users\rdonn\source\repos\Anti.consort.array\obj\Debug\net8.0-windows\ref\Anti.consort.array.dll
