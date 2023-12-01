@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "Anti.consort.array": {
+      "commandName": "Project",
+      "commandLineArgs": "cmd install quarkus",
+      "workingDirectory": "C:\\Users\\rdonn\\OneDrive\\Documents\\apache-ivy-2.5.0-bin",
+      "environmentVariables": {
+        "REGEN": "1337"
+      },
+      "remoteDebugEnabled": true,
+      "remoteDebugMachine": "Laptop-3NOQF",
+      "authenticationMode": "Windows",
+      "nativeDebugging": true,
+      "sqlDebugging": true,
+      "jsWebView2Debugging": true
+    }
+  }
+}

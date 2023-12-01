@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Anti.consort.array/1.0.0": {
+        "runtime": {
+          "Anti.consort.array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Anti.consort.array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
